@@ -32,3 +32,4 @@ Summary:
 Acknowledge:
   Udacity for their guidance in Data Science
   Kaggle for their data set in Airbnb
+  Kaggle user Kostya Bahshetsyan for the box figure
