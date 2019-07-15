@@ -9,19 +9,19 @@ The project is the first exercise project in my journey tp Data Science.
 It contains three code files for now indicating three steps for the Cross Industry Process for Data Mining.
 
 Descriptions of files:
-Data files:
+1. Data files:
   boscalendar.csv
   boslistings.csv
   bosreviews.csv
-Main code files:
+2. Main code files:
   Pro1-Airbnb-step1.ipynb
   Pro1-Airbnb-step2.ipynb
   Pro1-Airbnb-step3.ipynb
-Auxilary code files:
+3. Auxilary code files:
   attach1.py
   attach2.py
   attachments.ipynb
-README.md
+4. README.md
 
 Summary:
   1. What is the most popular method when people verify their decision in airbnb?
@@ -30,6 +30,6 @@ Summary:
     The average highest prices in Boston are in the following areas: Leather district, Chinatown, Back Bay, Downtown, and South Boston Waterfront. The average lowest prices in Boston are in Roslindale, Hyde Park, and Mattapan. Remember, the lowest price is not always the best price.
     
 Acknowledge:
-  Udacity for their guidance in Data Science
-  Kaggle for their data set in Airbnb
-  Kaggle user Kostya Bahshetsyan for the box figure
+  1. Udacity for their guidance in Data Science
+  2. Kaggle for their data set in Airbnb
+  3. Kaggle user Kostya Bahshetsyan for the box figure
